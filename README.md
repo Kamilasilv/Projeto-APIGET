@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ### Semana 8 On12 Back-end reprograma 🚀
 # Projeto guiado com GET- {reprograma}flix 💜
 
