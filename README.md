@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ### Semana 8 On12 Back-end reprograma 🚀
 # Projeto guiado com GET- {reprograma}flix 💜
 
@@ -51,5 +51,4 @@ Feito com :heart: por Kamila Silva :crown: .
 <A href = "https://www.linkedin.com/in/kamila-silva-3b1b091aa/" alvo= "_blank"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
 </div>
 =======
-# Projeto-APIGET
->>>>>>> 9d0da01446de9605e8fc37395c5101814a077a52
+
