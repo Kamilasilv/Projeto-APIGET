@@ -18,7 +18,8 @@ A proposta foi a criação de um projeto prático de uma API utilizando o métod
 
 ---
 
-.
+#### Demonstração da API no Postman  :arrow_forward:
+![gif-APIGET](http://g.recordit.co/CxOxBMHCPY.gif)
 
 ####  **Para rodar este projeto API-GET em sua máquina:** :arrows_counterclockwise:
 Clone o projeto no terminal -
@@ -39,7 +40,7 @@ Execute através do comando:
 
 Acesse o servidor através da rota:
 
-    <http://localhost:8080/series>
+    http://localhost:8080/series
 
 ---
 
